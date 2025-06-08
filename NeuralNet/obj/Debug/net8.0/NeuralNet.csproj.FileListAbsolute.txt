@@ -1,0 +1,11 @@
+C:\Users\PC Master\Documents\Another_backup\NeuralNet\obj\Debug\net8.0\NeuralNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Master\Documents\Another_backup\NeuralNet\obj\Debug\net8.0\NeuralNet.AssemblyInfoInputs.cache
+C:\Users\PC Master\Documents\Another_backup\NeuralNet\obj\Debug\net8.0\NeuralNet.AssemblyInfo.cs
+C:\Users\PC Master\Documents\Another_backup\NeuralNet\obj\Debug\net8.0\NeuralNet.csproj.CoreCompileInputs.cache
+C:\Users\PC Master\Documents\Another_backup\NeuralNet\bin\Debug\net8.0\NeuralNet.deps.json
+C:\Users\PC Master\Documents\Another_backup\NeuralNet\bin\Debug\net8.0\NeuralNet.dll
+C:\Users\PC Master\Documents\Another_backup\NeuralNet\bin\Debug\net8.0\NeuralNet.pdb
+C:\Users\PC Master\Documents\Another_backup\NeuralNet\obj\Debug\net8.0\NeuralNet.dll
+C:\Users\PC Master\Documents\Another_backup\NeuralNet\obj\Debug\net8.0\refint\NeuralNet.dll
+C:\Users\PC Master\Documents\Another_backup\NeuralNet\obj\Debug\net8.0\NeuralNet.pdb
+C:\Users\PC Master\Documents\Another_backup\NeuralNet\obj\Debug\net8.0\ref\NeuralNet.dll
